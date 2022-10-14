@@ -6,7 +6,7 @@ int main(int argc, char *argv[]) {
   int b = 0;
   int a = 20;
 
-  int c = a / b;
+  int c = b / a;
 
   cout << c;
 
