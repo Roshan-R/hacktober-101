@@ -1,7 +1,7 @@
 def main():
     l = [1, 2, 3, 4, 5, 6]
 
-    for x in range(7):
+    for x in l
         print(l[x])
 
 main()
