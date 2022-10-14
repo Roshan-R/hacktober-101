@@ -7,3 +7,7 @@ Get comfortable with hacking!
 2. Create a new branch 
 3. Go to your fork and add your name to names.txt
 4. Open a pull request 
+
+## Bonus
+
+Some of the files in the folder `src` have bugs. Fix them and create a pull request!
