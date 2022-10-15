@@ -10,4 +10,4 @@ Get comfortable with hacking!
 
 ## Bonus
 
-Some of the files in the folder `src` have bugs. Fix them and create a pull request!
+Some of the files in the folder `src` have no bugs. Fixed all. Repo is closed!
